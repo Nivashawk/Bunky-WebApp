@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Bunky-WebApp/static/js/main.c6a9382f.chunk.js",
+    "main.js.map": "/Bunky-WebApp/static/js/main.c6a9382f.chunk.js.map",
+    "runtime-main.js": "/Bunky-WebApp/static/js/runtime-main.bf7b959e.js",
+    "runtime-main.js.map": "/Bunky-WebApp/static/js/runtime-main.bf7b959e.js.map",
+    "static/js/2.5ca9c8e2.chunk.js": "/Bunky-WebApp/static/js/2.5ca9c8e2.chunk.js",
+    "static/js/2.5ca9c8e2.chunk.js.map": "/Bunky-WebApp/static/js/2.5ca9c8e2.chunk.js.map",
+    "index.html": "/Bunky-WebApp/index.html",
+    "precache-manifest.f4abbc1111a09aac4e8ad5a142fdfd99.js": "/Bunky-WebApp/precache-manifest.f4abbc1111a09aac4e8ad5a142fdfd99.js",
+    "service-worker.js": "/Bunky-WebApp/service-worker.js",
+    "static/js/2.5ca9c8e2.chunk.js.LICENSE.txt": "/Bunky-WebApp/static/js/2.5ca9c8e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf7b959e.js",
+    "static/js/2.5ca9c8e2.chunk.js",
+    "static/js/main.c6a9382f.chunk.js"
+  ]
+}
