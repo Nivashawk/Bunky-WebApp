@@ -1,0 +1,12 @@
+.Loginbutton_container{
+     border: 10px;
+     border-color: black;
+}
+
+.Login_button{
+    background-color: var(--Button_color);
+    border-width: 1px;
+    border-color: black;
+    font-size: 25px;
+    font-weight: 300;
+}
